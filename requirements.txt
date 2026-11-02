@@ -1,0 +1,7 @@
+# Python 3.11 recomendado
+# PyTorch CPU o CUDA: instala la variante adecuada para tu PC.
+torch>=2.2,<3
+transformers>=4.44,<5
+pillow>=10,<13
+numpy>=1.26,<3
+scikit-learn>=1.4,<2

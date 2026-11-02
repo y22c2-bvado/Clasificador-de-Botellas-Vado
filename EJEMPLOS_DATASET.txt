@@ -1,0 +1,6 @@
+ZIP de entrenamiento: carpetas de categorías etiquetadas por nombre.
+PET/  HDPE/  PVC/  LDPE/  PP/  PS/  PC/  PUR/  ABS/  OTRO/
+OTRO = SOLO objetos verificados que NO son plástico: manos, madera, metal, papel.
+Para reentrenar: al menos 10 fotografías por clase (preferible 30-100+), originales y nuevas.
+Las fotos son datos de entrenamiento; este paquete no inventa ni incluye fotos etiquetadas.
+Un ZIP parcial se añade a la memoria visual en la API sin entrenar pesos.

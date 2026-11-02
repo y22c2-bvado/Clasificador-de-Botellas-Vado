@@ -1,0 +1,28 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Resultados generados
+resultados/
+
+# Modelos entrenados
+models/Clasificador_Ampliado.pth
+
+# Variables de entorno y credenciales
+.env
+.env.*
+!.env.example
+
+# Archivos de VS Code
+.vscode/
+
+# Archivos del sistema
+Thumbs.db
+.DS_Store
