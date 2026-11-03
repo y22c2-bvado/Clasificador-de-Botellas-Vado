@@ -26,3 +26,10 @@ models/Clasificador_Ampliado.pth
 # Archivos del sistema
 Thumbs.db
 .DS_Store
+# Modelos descargados
+sam2_t.pt
+yolo*.pt
+
+# Archivos generados
+revision_dataset/
+TACO_preparado/
